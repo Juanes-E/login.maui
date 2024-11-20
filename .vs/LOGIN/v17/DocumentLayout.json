@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Propietario\\Pictures\\sesion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|c:\\users\\propietario\\pictures\\sesion\\login\\login_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|solutionrelative:login\\login_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|c:\\users\\propietario\\pictures\\sesion\\login\\login_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|solutionrelative:login\\login_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|c:\\users\\propietario\\pictures\\sesion\\login\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|solutionrelative:login\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|c:\\users\\propietario\\pictures\\sesion\\login\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|solutionrelative:login\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|c:\\users\\propietario\\pictures\\sesion\\login\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|solutionrelative:login\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|c:\\users\\propietario\\pictures\\sesion\\login\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|solutionrelative:login\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|c:\\users\\propietario\\pictures\\sesion\\login\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD92CAC-02C4-4E1A-8EE4-2F5928701CDD}|LOGIN\\LOGIN.csproj|solutionrelative:login\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A78E285-BC18-492A-B253-CD494072F676}|..\\Gaming\\GamingApp\\GamingApp.csproj|c:\\users\\propietario\\pictures\\gaming\\gamingapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A78E285-BC18-492A-B253-CD494072F676}|..\\Gaming\\GamingApp\\GamingApp.csproj|c:\\users\\propietario\\pictures\\gaming\\gamingapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login_page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\login_page.xaml.cs",
+              "RelativeDocumentMoniker": "LOGIN\\login_page.xaml.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\login_page.xaml.cs",
+              "RelativeToolTip": "LOGIN\\login_page.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:49:57.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LOGIN\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\App.xaml.cs",
+              "RelativeToolTip": "LOGIN\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:49:29.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "LOGIN\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\MauiProgram.cs",
+              "RelativeToolTip": "LOGIN\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:48:46.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\AppShell.xaml",
+              "RelativeDocumentMoniker": "LOGIN\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\AppShell.xaml",
+              "RelativeToolTip": "LOGIN\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T21:48:44.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\App.xaml",
+              "RelativeDocumentMoniker": "LOGIN\\App.xaml",
+              "ToolTip": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\App.xaml",
+              "RelativeToolTip": "LOGIN\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T21:48:43.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\MainPage.xaml",
+              "RelativeDocumentMoniker": "LOGIN\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\MainPage.xaml",
+              "RelativeToolTip": "LOGIN\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T21:48:37.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Pictures\\Gaming\\GamingApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Gaming\\GamingApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Propietario\\Pictures\\Gaming\\GamingApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "..\\Gaming\\GamingApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:51:46.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Pictures\\Gaming\\GamingApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "..\\Gaming\\GamingApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Propietario\\Pictures\\Gaming\\GamingApp\\MainPage.xaml",
+              "RelativeToolTip": "..\\Gaming\\GamingApp\\MainPage.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T20:42:23.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login_page.xaml",
+              "DocumentMoniker": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\login_page.xaml",
+              "RelativeDocumentMoniker": "LOGIN\\login_page.xaml",
+              "ToolTip": "C:\\Users\\Propietario\\Pictures\\sesion\\LOGIN\\login_page.xaml",
+              "RelativeToolTip": "LOGIN\\login_page.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T20:27:09.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
